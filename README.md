@@ -117,7 +117,7 @@ The practice of recording serial lifecycle and PIN verification outcomes in an a
 Void is an ops or fraud action removing a serial from sellable/redeemable stock. Expiry is a time-based state transition; both should be audited.
 
 **How does this relate to MoboGage / EVD System?**  
-EVD System is MoboGage's electronic voucher distribution and management platform; serial tracking sits at the core of EVD inventory and lifecycle. See the [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) and [EVD complete guide](https://evdsystem.com/electronic-voucher-distribution-system-a-complete-guide/) pages when evaluating fit.
+EVD System is MoboGage's electronic voucher distribution and management platform; serial tracking sits at the core of EVD inventory and lifecycle. See the [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) and [EVD guide](https://evdsystem.com/evd-software/what-is-electronic-voucher-distribution-evd/) pages when evaluating fit.
 
 ---
 
@@ -137,8 +137,8 @@ EVD System is MoboGage's electronic voucher distribution and management platform
 
 ## Further Reading / Related Industry Resources
 
-- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) — EVMS overview  
-- [Electronic voucher distribution system — complete guide](https://evdsystem.com/electronic-voucher-distribution-system-a-complete-guide/) — lifecycle and distribution context  
+- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) — EVMS overview  
+- [Electronic voucher distribution system — complete guide](https://evdsystem.com/evd-software/what-is-electronic-voucher-distribution-evd/) — lifecycle and distribution context  
 
 See also [docs/glossary.md](./docs/glossary.md) for extended terminology.
 

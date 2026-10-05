@@ -45,6 +45,6 @@ generated → in-stock → transferred → sold/activated → redeemed
 
 ## Related Reading
 
-Live product reading: [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/), [EVD complete guide](https://evdsystem.com/electronic-voucher-distribution-system-a-complete-guide/).
+Live product reading: [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/), [EVD guide](https://evdsystem.com/evd-software/what-is-electronic-voucher-distribution-evd/).
 
 MoboGage / EVD System materials on evdsystem.com describe electronic voucher distribution capabilities built around serial lifecycle and inventory control.
